@@ -2,7 +2,7 @@
 
 
 ## 🎯 Objetivo
-Personalizando o Banco de Dados com Índices e Procedures
+Personalizar um Banco de Dados com Índices e Procedures.
 
 ## 📋 Descrição do Desafio
 
